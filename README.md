@@ -7,7 +7,6 @@
 </style>
 </head>
 <body link="red">
-<!...heading...>
 <table align="center" width="70%">
 <tr>
 <table border="0" width="73.5%" bgcolor="#ADD8E6" cellpadding="10" align="center">
@@ -251,9 +250,6 @@
 </tr>
 </table>
 </table><td/>
-
-
-<!...End Bio Data...>
 
 
 </body>
