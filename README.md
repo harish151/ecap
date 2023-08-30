@@ -9,7 +9,7 @@
 <body link="red">
 <table align="center" width="70%">
 <tr>
-<table border="0" width="73.5%" bgcolor="#ADD8E6" cellpadding="10" align="center">
+<table width="73.5%" height="100%" bgcolor="#ADD8E6" cellpadding="10" valign="top">
 <td><b><font face="inter">Hi...RACHURI HARISH</font></b></td>
 <td width="20%"><td><a href="">Home</a></td>
 <td><a href="https://youtube.com/@Bgmsounds?feature=shared" target="blank">Youtube</a></td>
