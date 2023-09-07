@@ -8,10 +8,6 @@
             size: A4;
             margin: 0;
         }
-        
-        body {
-            margin: 20mm; /* Adjust margins as needed */
-        }
 </style>
 </head>
 <body link="red">
