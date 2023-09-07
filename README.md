@@ -28,37 +28,6 @@
 
 <table width="74.8%" align="center" border="0" cellspacing="5">
 <tr>
-<td bgcolor="#0D22F4">
-<table border="1" style="border-collapse:collapse" cellpadding="4.8" cellspacing="5" height="100">
-<tr><td class="menu" colspan="1"><b>MENU</b></td></tr>
-<tr><td bgcolor="00FFFF"><b>ACADEMIC REGISTER</b></td></tr>
-<tr><td bgcolor="00FFFF"><b>ACADEMIC CALENDER</b></td></tr>
-<tr><td bgcolor="00FFFF"><b>ASSIGNMENT REPORT</b></td></tr>
-<tr><td bgcolor="00FFFF"><b>ATTENDENCE</b></td></tr>
-<tr><td bgcolor="00FFFF"><b>BACKLOGS</b></td></tr>
-<tr><td bgcolor="00FFFF"><b>BOOK SEARCH</b></td></tr>
-<tr><td bgcolor="00FFFF"><b>CHANGE PERSONAL DETAILS</b></td></tr>
-<tr><td bgcolor="00FFFF"><b>CLASS ASSIGNMENTS</b></td></tr>
-<tr><td bgcolor="00FFFF"><b>EXAM SCHEDULE</b></td></tr>
-<tr><td bgcolor="00FFFF"><b>FEE DETAILS</b></td></tr>
-<tr><td bgcolor="00FFFF"><b>FEEDBACK</b></td></tr>
-<tr><td bgcolor="00FFFF"><b>GRADE CARD</b></td></tr>
-<tr><td bgcolor="00FFFF"><b>INTERNAL EXAM RESULTS</b></td></tr>
-<tr><td bgcolor="00FFFF"><b>LIBRARY BOOKS</b></td></tr>
-<tr><td bgcolor="00FFFF"><b>MARKS</b></td></tr>
-<tr><td bgcolor="00FFFF"><b>MY EXAM SEATING</b></td></tr>
-<tr><td bgcolor="00FFFF"><b>NO DUE</b></td></tr>
-<tr><td bgcolor="00FFFF"><b>ONLINE PAYMENT</b></td></tr>
-<tr><td bgcolor="00FFFF"><b>PROFILE</b></td></tr>
-<tr><td bgcolor="00FFFF"><b>PROJECT SEARCH</b></td></tr>
-<tr><td bgcolor="00FFFF"><b>RECIPTS</b></td></tr>
-<tr><td bgcolor="00FFFF"><b>RESOURCES</b></td></tr>
-<tr><td bgcolor="00FFFF"><b>TIME TABLE</b></td></tr>
-
-
-
-</table>
-</td>
 <td>
 <table border="1" width="100%" style="border-collapse:collapse">
 <tr><td colspan="6" width="100%" bgcolor="#808080"><b>Personal Details</b></td></tr>
