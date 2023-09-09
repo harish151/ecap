@@ -10,16 +10,6 @@
         }
 </style>
 </head>
-<body link="red">
-<table align="center" width="70%">
-<tr>
-<table width="73.5%" height="100%" bgcolor="#ADD8E6" cellpadding="10" valign="top">
-<td><b><font face="inter">Hi...RACHURI HARISH</font></b></td>
-<td width="20%"><td><a href="">Home</a></td>
-<td><a href="https://youtube.com/@Bgmsounds?feature=shared" target="blank">Youtube</a></td>
-<td><a href="#" target="blank">Facebook</a></td>
-<td><a href="#" target="blank">Twitter</a></td></td>
-</table><br>
 
 
 <table width="74.8%" align="center" border="0" cellspacing="5">
